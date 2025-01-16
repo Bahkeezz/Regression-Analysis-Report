@@ -43,6 +43,9 @@ The 95% confidence intervals for all coefficients do not include zero. This furt
 
 ### Standard Error of Regression (0.2917)
 The standard error represents the average deviation of the observed crop yields from the predicted values. A value of 0.2917 indicates that the model's predictions are highly accurate, with minimal error between the actual and predicted crop yields. This demonstrates the reliability of the model in estimating crop yield based on the predictors.
+![Chart](https://raw.githubusercontent.com/Bahkeezz/Regression-Analysis-Report/main/regression.png)
+
+The chart illustrates the relative importance of each independent variable in predicting crop yield. The soil quality index has the most significant positive impact, followed by farm size and sunlight hours. Rainfall and fertilizer have progressively smaller impacts, aligning with their respective coefficients.
 
 ## Discussion
 The findings of this study align with the consensus among agricultural experts, who have consistently identified soil quality, farm size, rainfall, sunlight, and fertilizer as crucial factors influencing crop yield.
