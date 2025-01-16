@@ -13,6 +13,8 @@ The study employed a multiple linear regression model to analyze the relationshi
 The regression model showed a very strong positive linear relationship between the predictors and crop yield, with a Multiple R (Correlation Coefficient) of 0.999998. The R-squared value of 0.999996 indicates that 99.9996% of the variability in crop yield is explained by the independent variables.
 
 ### Regression Table
+![Regression Analysis](regression.png)
+
 
 
 ## Variables Coefficient and Their Impact on Crop Yield
