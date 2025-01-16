@@ -1,8 +1,5 @@
 # Predicting Crop Yield
 
-## Executive Summary
-This report presents the findings of a regression analysis conducted to predict crop yield based on five independent variables: rainfall, soil quality index, farm size, sunlight hours, and fertilizer. The results show a very strong positive linear relationship between the predictors and crop yield, with an R-squared value of 0.999996.
-
 ## Introduction
 Crop yield is a critical factor in agricultural productivity, and understanding the factors that influence it is essential for optimizing crop production. This study aimed to investigate the relationship between crop yield and five independent variables using regression analysis.
 
