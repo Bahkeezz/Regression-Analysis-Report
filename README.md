@@ -9,10 +9,7 @@ The study employed a multiple linear regression model to analyze the relationshi
 ## Regression Model Overview
 The regression model showed a very strong positive linear relationship between the predictors and crop yield, with a Multiple R (Correlation Coefficient) of 0.999998. The R-squared value of 0.999996 indicates that 99.9996% of the variability in crop yield is explained by the independent variables.
 
-![Statistics](https://github.com/Bahkeezz/Regression-Analysis-Report/blob/d962d761f1ec60ddcfc7757cbc22d8e0c249028c/statistics.png)
-
-
-![Analysis](https://raw.githubusercontent.com/Bahkeezz/Regression-Analysis-Report/main/regression.png)
+![Statistics](https://github.com/user-attachments/assets/b75cde6b-0f69-41cc-ab98-4aacbc2968ba)
 
 ## Variables Coefficient and Their Impact on Crop Yield
 
@@ -42,7 +39,7 @@ The 95% confidence intervals for all coefficients do not include zero. This furt
 ### Standard Error of Regression (0.2917)
 The standard error represents the average deviation of the observed crop yields from the predicted values. A value of 0.2917 indicates that the model's predictions are highly accurate, with minimal error between the actual and predicted crop yields. This demonstrates the reliability of the model in estimating crop yield based on the predictors.
 
-![Chart](https://github.com/Bahkeezz/Regression-Analysis-Report/blob/e2c4e0339c3b8598f1a838fd0bacca3037845e4f/bar_chart.png)
+![Chart](https://github.com/user-attachments/assets/4b6bb299-3ad1-4410-bf79-062350b793ec)
 
 The chart illustrates the relative importance of each independent variable in predicting crop yield. The soil quality index has the most significant positive impact, followed by farm size and sunlight hours. Rainfall and fertilizer have progressively smaller impacts, aligning with their respective coefficients.
 
